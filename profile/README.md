@@ -1,3 +1,9 @@
+<div align="center">
+  
+![sample](https://github.com/pinacai/.github/assets/78198704/edd21f6a-b2b2-4595-9014-bce9ec1f9a6f)
+
+</div>
+
 We are a GitHub organization dedicated to developing AI-powered applications that solve practical problems and make people's lives easier. Our mission is to increase productivity and save time for our users through the innovative use of artificial intelligence technology.
 
 ## Our Focus
