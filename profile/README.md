@@ -21,7 +21,8 @@ At the core of our organization, we are driven by a deep understanding of the ch
 To achieve our goals, we employ a user-centric approach that places the needs of our users at the forefront of our development process. We utilize the latest advancements in AI, machine learning, and natural language processing to create innovative and intuitive applications.
 
 ## Our Current Project
-- [**PINAC Workspace 2.0**](https://github.com/pinacai/PINAC_Workspace-2.0): A comprehensive, AI-integrated cross-platform desktop application designed to manage all your tasks in Google Workspace Apps. It also includes AI web searching, office work management, and friendly conversations with AI. Build with Electron and React, with a powerful backend using Python.
+- [**PINAC Workspace**](https://github.com/pinacai/PINAC_Workspace): A comprehensive, AI-integrated cross-platform desktop application designed to manage all your tasks in Google Workspace Apps. It also includes AI web searching, office work management, and friendly conversations with AI. Build with Electron and React, with a powerful backend using Python.
+- [**PINAC Nexus**](https://github.com/pinacai/PINAC-Nexus) **(Upcoming)**: The robust server behind **PINAC Workspace** written in **Python**.
 
 ## Author
 The PINAC AI Solution GitHub organization is owned and operated under the vision of [**Rajesh Mondal**](https://github.com/RajeshTechForge)
