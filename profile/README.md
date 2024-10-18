@@ -16,6 +16,6 @@ We are a GitHub organization dedicated to developing AI-powered applications tha
 
 
 ## Our Current Projects
-- [**PINAC Workspace**](https://github.com/pinacai/PINAC_Workspace):  The all-in-one solution for text generation, document summarization, web searching, code generation, and a wide range of office tools. This powerful platform combines the best AI capabilities, seamlessly integrated into an intuitive chat-based interface.
+- [**PINAC Workspace**](https://github.com/pinacai/PINAC_Workspace):  A modern-looking privacy-first AI chat for desktops, seamlessly blending Electron and React for a modern user experience. Unlock the full potential of AI with unparalleled simplicity and user-friendliness, while enjoying ultimate freedom and privacy.
 
-- [**PINAC NexusGPT**](https://github.com/pinacai/NexusGPT): A simple-to-use framework for getting high-quality text for different tasks using AI. Written in Python, powered by Langchain.
+- [**PINAC Web**](https://github.com/pinacai/PINAC_Web): Building the official website for PINAC Organization.
