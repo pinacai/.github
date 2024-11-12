@@ -18,4 +18,4 @@ We are a GitHub organization dedicated to developing AI-powered applications tha
 ## Our Current Projects
 - [**PINAC Workspace**](https://github.com/pinacai/PINAC_Workspace):  A modern-looking privacy-first AI chat for desktops, seamlessly blending Electron and React for a modern user experience. Unlock the full potential of AI with unparalleled simplicity and user-friendliness, while enjoying ultimate freedom and privacy.
 
-- [**PINAC Web**](https://github.com/pinacai/PINAC_Web): Building the website for PINAC Workspace.
+- [**PINAC Web**](https://github.com/pinacai/pinac_web): Building the website for PINAC Workspace.
