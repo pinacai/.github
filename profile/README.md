@@ -13,9 +13,3 @@ We are a GitHub organization dedicated to developing AI-powered applications tha
 2. **Time-Saving Solutions**: Our AI applications are designed to save users' time by automating processes, providing intelligent recommendations, and automating decision-making where appropriate.
 
 3. **Practical Problem-Solving**: We identify real-world problems that impact people's lives and develop AI-based solutions to address them, making people's lives easier and more efficient.
-
-
-## Our Current Projects
-- [**PINAC Workspace**](https://github.com/pinacai/PINAC_Workspace):  A modern-looking privacy-first AI chat for desktops, seamlessly blending Electron and React for a modern user experience. Unlock the full potential of AI with unparalleled simplicity and user-friendliness, while enjoying ultimate freedom and privacy.
-
-- [**PINAC Web**](https://github.com/pinacai/pinac_web): Building the website for PINAC Workspace.
